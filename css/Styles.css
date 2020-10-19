@@ -1,0 +1,151 @@
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;*/
+
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h3{
+    text-align: center;
+}
+
+h2{
+    padding: 0% 15%;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+    color: white;
+}
+
+em{
+    color: white;
+}
+
+p{
+    padding: 0% 15%;
+    color: #8f8f8f;
+}
+/* Title */
+
+#title{
+    background-color: #ff4c68;
+}
+
+#tinDog{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2rem;
+}
+
+#Intro{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.2;
+    color: white;
+    margin-bottom: 10%;
+}
+
+.navbar{
+    margin-bottom: 3%;
+}
+
+.download-btn{
+    margin: 0% 2%;
+}
+
+.Iphone-dog{
+    margin-left: 5%;
+    transform: rotate(25deg);
+}
+
+/* Features */
+
+.container{
+    padding: 3%;
+}
+
+.fea-icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.fea-icon:hover{
+    color: #ff4c68;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 3%;
+}
+
+#features{
+    background-color: white;
+    padding: 12% 10%;
+    position: relative;
+    z-index: 1;
+}
+
+/* Testimonials */
+#testimonials{
+    background-color: #ef8172;
+    text-align: center;
+    padding: 5% 12%;
+}
+
+.testimonial-image{
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+    margin: 2rem 1rem;
+}
+
+
+
+/* Sponsors */
+#sponsors{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.sponsor-logo{
+    width: 13%;
+    margin: 0% 1% 1% 8%;
+}
+
+/* Pricing */
+#Pricing{
+    text-align: center;
+}
+
+#Pricing h2{
+    color: black;
+}
+
+#Pricing h1{
+    margin-top: 2rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.Cards-Row{
+    padding: 1% 10% 3% 10%;
+}
+
+/* Section */
+#download{
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 10% 20%;
+}
+
+#download h1{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    line-height: 1.2;
+    padding-bottom: 2rem;
+}
+
+#download .btn{
+    font-family: 'Montserrat-Regular', sans-serif;
+}
+
+
+
+
